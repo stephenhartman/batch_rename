@@ -14,3 +14,4 @@ do
     fi
     done
 done < filerename.csv
+perl -pi -e 'chomp if eof' filerename.csv
