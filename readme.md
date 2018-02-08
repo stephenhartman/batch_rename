@@ -11,5 +11,5 @@
 7. To rename all files, run `sh rename.sh` in the Terminal.
 8. You're all done!  Congrats!
 
-####Copyright 2018 Stephen Hartman
+#### Copyright 2018 Stephen Hartman
 
